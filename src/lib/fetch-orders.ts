@@ -1,5 +1,5 @@
 export const FETCH_ORDERS_URL =
-  "https://usauth.app.n8n.cloud/webhook-test/fetch_orders"
+  "https://usauth.app.n8n.cloud/webhook/fetch_orders"
 
 export type Order = {
   order_ref: string
